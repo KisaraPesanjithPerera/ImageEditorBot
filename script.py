@@ -1,10 +1,10 @@
 class script(object):
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b>💖Hi {}
 
-I'm a Image Editor Bot which Supports various modes
+🔰I'm a Image Editor Bot which Supports various modes
 
-For more click help....</b>"""
+♻️For more click help....</b>"""
     HELP_MSG = """Hai, Follow these Steps..
 
 <code>🌀 Send me any Image to Edit..</code>
